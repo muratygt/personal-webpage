@@ -10,8 +10,7 @@ function App() {
         <p>
           Murat Yigit
         </p>
-        <h5>Passionate React Developer</h5>
-        <h5>muratyigit88@gmail.com</h5>
+        <h5>Building awesome web with React</h5>
       </header>
     </div>
   );
