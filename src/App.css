@@ -33,3 +33,26 @@
 h1{
   color: aqua;
 }
+
+a{
+  display: block;
+  margin: 30px 0 30px 0;
+  text-decoration: none;
+  font-size: x-large;
+}
+
+.button{
+  position: absolute;
+  top:50px;
+  right: 20px;
+}
+.p-button{
+  background-color: transparent !important;
+  border: none !important;
+  font-size: 40px !important;
+}
+
+.list{
+  list-style-type: none;
+  font-size: 2rem;
+}
